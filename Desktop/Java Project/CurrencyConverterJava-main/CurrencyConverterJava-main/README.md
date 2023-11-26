@@ -3,5 +3,5 @@
 
 Clone the repository: 
 ```
-https://github.com/mamutalib/CurrencyConverterJava.git
+https://github.com/Imranhub786/CodeSoftInternship_Currency_Converter
 ```
